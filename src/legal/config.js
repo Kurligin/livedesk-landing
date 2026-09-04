@@ -5,7 +5,7 @@
 export const LEGAL_CONFIG = {
   INDIVIDUAL_NAME: 'Имя Фамилия Отчество',
   INN: '000000000000',
-  CONTACT_EMAIL: 'support@example.com',
+  CONTACT_EMAIL: 'kurligindevelopment@gmail.com',
   CONTACT_PHONE: '',
   REGION: 'Россия',
   SITE_URL: 'https://example.com',
